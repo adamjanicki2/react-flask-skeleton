@@ -1,0 +1,1 @@
+python run_dev_server.py & (cd client && npm start)
